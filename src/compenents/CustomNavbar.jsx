@@ -45,7 +45,7 @@ export const CustomNavbar = () => {
           </li>
           <li>
             <a href="/vacancy" className="text-lg font-medium text-gray-700 text-white">
-              Portfolio
+              Portofolio
             </a>
           </li>
           <li>
